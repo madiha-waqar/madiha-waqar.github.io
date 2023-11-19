@@ -12,7 +12,7 @@
   <li>📫 How to reach me: <a href="mailto:mail2madihawaqar@gmail.com">mail2madihawaqar@gmail.com</a></li>
 
 </ul><br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madihawaqar/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madihawaqar/)
 
 ![Madiha Waqar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=madiha-waqar&show_icons=true&theme=dracula)
 
