@@ -10,9 +10,9 @@
   <li>🍁 I'm currently living in GTHA Ontario, Canada</li>
   <li>👨‍💻 I love to learn new technologies and go forward into this world</li>
   <li>📫 How to reach me: <a href="mailto:mail2madihawaqar@gmail.com">mail2madihawaqar@gmail.com</a></li>
-
 </ul><br/>
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madihawaqar/)
+
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madiha-waqar/)
 
 ![Madiha Waqar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=madiha-waqar&show_icons=true&theme=dracula)
 
